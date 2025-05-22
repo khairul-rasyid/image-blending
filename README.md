@@ -8,4 +8,4 @@ Anggota Kelompok:
 - Renaldi yoga rendy menono | 2211102441147
 
 ## Deskripsi
-Project ini adalah tugas 1 mata kuliah Visi Komputer, yaitu pembuatan sebuah aplikasi web untuk mengubah konstras sebuah gambar yang dimasukkan oleh pengguna.
+Project ini adalah tugas 2 mata kuliah Visi Komputer, yaitu pembuatan sebuah aplikasi web untuk melakukan blending dua buah gambar sesuai dengan rasio yang ditentukan oleh pengguna.
